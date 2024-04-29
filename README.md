@@ -1,7 +1,7 @@
-#Advanced Tic Tac Toe Game
-Project by CU EECE  2026 Team
-May 2024
-##Project Overview:
+# Advanced Tic Tac Toe Game
+## Project by CU EECE  2026 Team
+### May 2024
+## Project Overview:
 Develop an advanced version of Tic Tac Toe game that incorporates user authentication,
 personalized game history, and an intelligent (Artificial Intelligent) AI opponent. The game will
 support both player-vs-player and player-vs-AI modes, allowing users to log in, track their game
@@ -14,7 +14,7 @@ Objectives:
 ● Develop a challenging AI opponent using strategic algorithms to enhance gameplay.
 ● Employ unit and integration testing to ensure software quality and reliability.
 ● Integrate CI/CD practices using GitHub for continuous integration and deployment.
-##Core Components:
+## Core Components:
 Game Logic Implementation:
 ● Develop the basic game mechanics allowing two players and a player and AI to
 take turns marking a 3x3 grid.
@@ -42,13 +42,13 @@ Testing and Quality Assurance:
 of the game.
 ● Implement integration tests to ensure all parts of the system work together
 seamlessly.
-##CI/CD Integration:
+## CI/CD Integration:
 ● Set up GitHub Actions to automate the testing and deployment processes,
 ensuring that updates are smoothly rolled out and maintain high code quality.
 Performance Optimization and Metrics:
 ● Monitor and optimize the game’s performance, focusing on metrics such as
 response time and system resource utilization.
-Implementation Details:
+## Implementation Details:
 Technologies and Tools:
 ● Programming Language: C++
 ● Use Object Oriented Programming techniques
@@ -64,14 +64,14 @@ Data Structures:
 ● Trees for implementing the minimax algorithm for the AI opponent.
 ● Other data structures like stacks, hashtables and others can be used in different parts
 of the system
-Research and Development Guidelines:
+## Research and Development Guidelines:
 ● Team members are encouraged to use resources like ChatGPT and online research to
 aid in problem-solving but must understand and be able to justify every line of code they
 write.
 ● Proper citations are required for all third-party resources used.
 ● Collaboration and knowledge sharing are encouraged, but all submissions must be
 original and properly attributed.
-##List of Deliverables
+## List of Deliverables
 1. Software Requirements Specification (SRS):
 ● Purpose: Document detailing all functional and non-functional requirements,
 including game rules, system behavior, and performance requirements.
